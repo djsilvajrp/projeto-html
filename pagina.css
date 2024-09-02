@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(208, 208, 208);
+}
+
+h1 {
+    color: white;
+}
+
+.cor-verde {
+    color: green;
+}
+
+.margem {
+    margin: 10px;
+}
+
+.padrao-fonte-letra {
+    color: white;
+    font-size: 32px;
+    font-family:'Times New Roman';
+}
+
+
+.linha-usuario-ativo {
+    color: green;
+}
+
+.linha-usuario-inativo {
+    color: red;
+}
+
+.linha-impar {
+    background-color: rgb(241, 241, 241);
+    font-style: italic;
+}
+
+.linha-par {
+    background-color: antiquewhite;
+}
