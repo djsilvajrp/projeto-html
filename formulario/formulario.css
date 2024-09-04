@@ -1,0 +1,25 @@
+.borda {
+    border: 1px solid black;
+}
+
+.formulario {
+    padding: 10px;
+}
+
+.input {
+    height: 20px;
+    width: 200px;
+}
+
+
+h1 {
+    color: blue
+}
+
+.classe-h1 {
+    color: green;
+}
+
+#id-h1 {
+    color: red;
+}
